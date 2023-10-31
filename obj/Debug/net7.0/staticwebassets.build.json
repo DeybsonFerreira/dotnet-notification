@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "IE62IyCwXLW/v322GYXTK9soeDxIk1pvoJLkZjXxygY=",
+  "Source": "dotnet-notification",
+  "BasePath": "_content/dotnet-notification",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
